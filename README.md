@@ -1,8 +1,6 @@
 # ☕ Starbucks Nutrition Data Analysis 📊
 
-## 🚀 Why I Started this Project
 
-I love being a barista at Starbucks, creating delicious drinks for customers. It's not just about coffee—it's about understanding what goes into each cup. With a goal for a healthier lifestyle, I wanted to dig into the nutrition details of Starbucks beverages, like sugars and calories. As a data science student, this project blends my love for making coffee with my academic journey.
 
 ## 📌 Data Source
 
@@ -52,9 +50,3 @@ Being mindful of what I eat and focusing on fitness, I realized the importance o
 
 #### Scatter Plot 4: Calories vs Total Fat
 - Explored the surprising relationship (or lack thereof) between calories and total fat in beverages.
-
-## Conclusion
-
-🌟 This project not only enhances my understanding of Starbucks nutrition but also serves as a valuable resource for anyone seeking insights into the nutritional aspects of their favorite Starbucks drinks. It combines my passion for coffee with data science skills, emphasizing the importance of making informed and healthier choices.
-
-Feel free to explore the code and contribute to the project! 🚀
